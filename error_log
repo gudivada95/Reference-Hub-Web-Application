@@ -1,0 +1,196 @@
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: birthDate in /home/stude120/public_html/root/dbms/login_attempt.php on line 162
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 163
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 164
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 165
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 166
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 167
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 168
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 169
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 170
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 171
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 172
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 173
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 174
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 175
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 176
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 177
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 178
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 179
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 180
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 181
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 182
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 183
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 184
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 185
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 186
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 187
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: StudentID in /home/stude120/public_html/root/dbms/login_attempt.php on line 188
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: birthDate in /home/stude120/public_html/root/dbms/login_attempt.php on line 162
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 163
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 164
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 165
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 166
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session1_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 167
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 168
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 169
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 170
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 171
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session2_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 172
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 173
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 174
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 175
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 176
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session3_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 177
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 178
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 179
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 180
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 181
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session4_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 182
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_TimeStart in /home/stude120/public_html/root/dbms/login_attempt.php on line 183
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_TimeEnd in /home/stude120/public_html/root/dbms/login_attempt.php on line 184
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_DeptName in /home/stude120/public_html/root/dbms/login_attempt.php on line 185
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_RoomName in /home/stude120/public_html/root/dbms/login_attempt.php on line 186
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: session5_BuildingName in /home/stude120/public_html/root/dbms/login_attempt.php on line 187
+[01-Apr-2018 18:07:49 UTC] PHP Notice:  Undefined index: StudentID in /home/stude120/public_html/root/dbms/login_attempt.php on line 188
+[01-Apr-2018 18:17:51 UTC] PHP Notice:  Undefined index: inputEmail in /home/stude120/public_html/root/dbms/login_attempt.php on line 9
+[01-Apr-2018 18:17:51 UTC] PHP Notice:  Undefined index: inputPass in /home/stude120/public_html/root/dbms/login_attempt.php on line 10
+[01-Apr-2018 18:18:26 UTC] PHP Notice:  Undefined index: inputEmail in /home/stude120/public_html/root/dbms/login_attempt.php on line 9
+[01-Apr-2018 18:18:26 UTC] PHP Notice:  Undefined index: inputPass in /home/stude120/public_html/root/dbms/login_attempt.php on line 10
+[02-Apr-2018 01:05:59 UTC] PHP Notice:  Undefined index: firstName in /home/stude120/public_html/root/dbms/store_data.php on line 4
+[02-Apr-2018 01:05:59 UTC] PHP Notice:  Undefined index: lastName in /home/stude120/public_html/root/dbms/store_data.php on line 5
+[02-Apr-2018 01:05:59 UTC] PHP Notice:  Undefined index: email in /home/stude120/public_html/root/dbms/store_data.php on line 6
+[02-Apr-2018 01:05:59 UTC] PHP Notice:  Undefined index: password in /home/stude120/public_html/root/dbms/store_data.php on line 7
+[02-Apr-2018 01:06:56 UTC] PHP Notice:  Undefined index: firstName in /home/stude120/public_html/root/dbms/store_data.php on line 4
+[02-Apr-2018 01:06:56 UTC] PHP Notice:  Undefined index: lastName in /home/stude120/public_html/root/dbms/store_data.php on line 5
+[02-Apr-2018 01:06:56 UTC] PHP Notice:  Undefined index: email in /home/stude120/public_html/root/dbms/store_data.php on line 6
+[02-Apr-2018 01:06:56 UTC] PHP Notice:  Undefined index: password in /home/stude120/public_html/root/dbms/store_data.php on line 7
+[02-Apr-2018 01:07:16 UTC] PHP Notice:  Undefined index: firstName in /home/stude120/public_html/root/dbms/store_data.php on line 4
+[02-Apr-2018 01:07:16 UTC] PHP Notice:  Undefined index: lastName in /home/stude120/public_html/root/dbms/store_data.php on line 5
+[02-Apr-2018 01:07:16 UTC] PHP Notice:  Undefined index: email in /home/stude120/public_html/root/dbms/store_data.php on line 6
+[02-Apr-2018 01:07:16 UTC] PHP Notice:  Undefined index: password in /home/stude120/public_html/root/dbms/store_data.php on line 7
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: firstName in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: lastName in /home/stude120/public_html/root/dbms/thankyou.php on line 5
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: email in /home/stude120/public_html/root/dbms/thankyou.php on line 6
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: gender in /home/stude120/public_html/root/dbms/thankyou.php on line 7
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: street in /home/stude120/public_html/root/dbms/thankyou.php on line 8
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: state in /home/stude120/public_html/root/dbms/thankyou.php on line 9
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: city in /home/stude120/public_html/root/dbms/thankyou.php on line 10
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: zip in /home/stude120/public_html/root/dbms/thankyou.php on line 11
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: dep1 in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: dep2 in /home/stude120/public_html/root/dbms/thankyou.php on line 14
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: dep3 in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: ath1 in /home/stude120/public_html/root/dbms/thankyou.php on line 16
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: ath2 in /home/stude120/public_html/root/dbms/thankyou.php on line 17
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: noSession in /home/stude120/public_html/root/dbms/thankyou.php on line 18
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: tour in /home/stude120/public_html/root/dbms/thankyou.php on line 19
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: lunch in /home/stude120/public_html/root/dbms/thankyou.php on line 20
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: aid in /home/stude120/public_html/root/dbms/thankyou.php on line 21
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: birth in /home/stude120/public_html/root/dbms/thankyou.php on line 22
+[11-Apr-2018 22:48:28 UTC] PHP Notice:  Undefined index: phone in /home/stude120/public_html/root/dbms/thankyou.php on line 23
+[11-Apr-2018 23:03:57 UTC] PHP Fatal error:  Call to undefined function Connect() in /home/stude120/public_html/root/dbms/thankyou.php on line 3
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'stude120_admin'@'localhost' to database 'stude120_References' in /home/stude120/public_html/root/dbms/connectionRef.php on line 12
+[11-Apr-2018 23:05:45 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 5
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 6
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 7
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 8
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 9
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 10
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 11
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 12
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 14
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 24
+[11-Apr-2018 23:05:45 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 26
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'stude120_admin'@'localhost' to database 'stude120_References' in /home/stude120/public_html/root/dbms/connectionRef.php on line 12
+[11-Apr-2018 23:15:34 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 5
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 6
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 7
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 8
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 9
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 10
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 11
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 12
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 14
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 24
+[11-Apr-2018 23:15:34 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 26
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'stude120_admin'@'localhost' to database 'stude120_References' in /home/stude120/public_html/root/dbms/connectionRef.php on line 12
+[11-Apr-2018 23:16:48 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 5
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 6
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 7
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 8
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 9
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 10
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 11
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 12
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 14
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 24
+[11-Apr-2018 23:16:48 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 26
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'stude120_admin'@'localhost' to database 'stude120_Refinal' in /home/stude120/public_html/root/dbms/connectionRef.php on line 12
+[11-Apr-2018 23:20:32 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 5
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 6
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 7
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 8
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 9
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 10
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 11
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 12
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 14
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 24
+[11-Apr-2018 23:20:32 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 26
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'stude120_admin'@'localhost' to database 'stude120_Refinal' in /home/stude120/public_html/root/dbms/connectionRef.php on line 12
+[11-Apr-2018 23:23:58 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 5
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 6
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 7
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 8
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 9
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 10
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 11
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 12
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 14
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 24
+[11-Apr-2018 23:23:58 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 26
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'stude120_admin'@'localhost' to database 'stude120_Refinal' in /home/stude120/public_html/root/dbms/connectionRef.php on line 12
+[11-Apr-2018 23:24:30 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 5
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 6
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 7
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 8
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 9
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 10
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 11
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 12
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 14
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 24
+[11-Apr-2018 23:24:30 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 26
+[11-Apr-2018 23:26:16 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'stude120_admin'@'localhost' to database 'stude120_Refinal' in /home/stude120/public_html/root/dbms/connectionRef.php on line 12
+[11-Apr-2018 23:26:16 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:26:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:26:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 13
+[11-Apr-2018 23:26:16 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/stude120/public_html/root/dbms/thankyou.php on line 15
+[11-Apr-2018 23:29:40 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:30:35 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:31:19 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:33:33 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
+[11-Apr-2018 23:34:25 UTC] PHP Notice:  Undefined index: Type in /home/stude120/public_html/root/dbms/thankyou.php on line 4
